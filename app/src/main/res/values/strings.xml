@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="YourName">Your Name ? </string>
+    <string name="YourPass">Your Password </string>
+    <string name="Ngaysinh">Your Birthday ? </string>
+    <string name="Cmnd">ID</string>
+    <string name="Dongy">Confirm</string>
+    <string name="Thoat">Exit</string>
+</resources>
